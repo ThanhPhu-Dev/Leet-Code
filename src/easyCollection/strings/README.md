@@ -13,7 +13,7 @@
 # Valid Palindrome.  
 <img src="https://user-images.githubusercontent.com/67057523/142768731-48951421-b891-431e-a051-0941f885607d.png" />
 
-#String to Integer (atoi).  
+# String to Integer (atoi).  
 <img src="https://user-images.githubusercontent.com/67057523/142768769-9df30fc5-d0b0-4b1d-821c-051abae920d6.png" />  
 <img src="https://user-images.githubusercontent.com/67057523/142768803-0f30e99c-7814-43da-afb4-dc123462c34b.png" />
 <img src="https://user-images.githubusercontent.com/67057523/142768866-729b52c2-128f-4c00-9247-c582c9022edf.png">  
